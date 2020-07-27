@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[Quentin](http://quentinread.com) is a postdoctoral fellow and data scientist at [SESYNC](https://sesync.org) in Annapolis, Maryland, USA.
+
+A more in-depth README will be here shortly!
+
 <!--
 **qdread/qdread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
