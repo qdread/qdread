@@ -6,7 +6,7 @@ I'm [Quentin](http://quentinread.com), a postdoctoral fellow and data scientist 
 - 🌱 I’m currently learning more about statistical learning methods, publishing reproducible data science workflows, and trying to pick up some Julia on the side.
 - 📫 How to reach me: email qread at sesync dot org
 - 😄 Pronouns: he/him
-- ⚡ Fun stuff: I like playing Irish trad music on the flute :musical_score:, running the mile on the track :runner: :watch:, [birding](https://ebird.org/profile/MjY4MzU5/US) :bird:, cooking :egg:, and being a dad to Vinny :baby_symbol: and husband to [Mary](https://github.com/maryglover).
+- ⚡ Fun stuff: I like playing Irish trad music on the flute :musical_score:, running the mile on the track :runner: :watch:, [birding](https://ebird.org/profile/MjY4MzU5/US) :bird:, cooking :egg:, and being a dad to Vinny :baby_symbol: and husband to [Mary](https://github.com/maryglover) :heart:.
 
 ### Q on the web
 
