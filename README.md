@@ -1,8 +1,10 @@
 ### About Q
 
-I'm [Quentin](http://quentinread.com), a postdoctoral fellow and data scientist at [SESYNC](https://sesync.org) in Annapolis, Maryland, USA.
+I'm [Quentin](http://quentinread.com), data scientist and ecologist. 
+Currently I'm the Southeast area Statistician for the U.S. Department of Agriculture's Agricultural Research Service in Raleigh, North Carolina, USA.
+I'm just getting started with this new position (October 2021) so please check back here soon to read more about the new projects I'm getting started!
 
-- 🔭 I’m currently working on maintaining the [rslurm R package](https://cyberhelp.sesync.org/rslurm), writing and updating [data science lessons](https://cyberhelp.sesync.org/lesson) for SESYNC, and analyzing datasets ranging from [forest growth in Panama](https://github.com/qdread/forestscalingworkflow) to [USA-wide food waste](https://github.com/qdread/halvingfoodwaste) to [breeding bird surveys](https://github.com/qdread/nasabio).
+- 🔭 I’m currently working on maintaining the [rslurm R package](https://cyberhelp.sesync.org/rslurm) and analyzing datasets ranging from [forest growth in Panama](https://github.com/qdread/forestscalingworkflow) to [USA-wide food waste](https://github.com/qdread/halvingfoodwaste) to [breeding bird surveys](https://github.com/qdread/nasabio).
 - 🌱 I’m currently learning more about statistical learning methods, publishing reproducible data science workflows, and trying to pick up some Julia on the side.
 - 📫 How to reach me: email qread at sesync dot org
 - 😄 Pronouns: he/him
