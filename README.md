@@ -1,11 +1,11 @@
 ### About Q
 
 I'm [Quentin](http://quentinread.com), data scientist and ecologist. 
-Currently I'm the Southeast area Statistician for the U.S. Department of Agriculture's Agricultural Research Service in Raleigh, North Carolina, USA.
-I'm just getting started with this new position (October 2021) so please check back here soon to read more about the new projects I'm getting started!
+Currently I'm the [Southeast Area](https://www.ars.usda.gov/southeast-area/) Statistician for the U.S. Department of Agriculture's Agricultural Research Service in Raleigh, North Carolina, USA.
+I joined USDA in October 2021. Check back here soon to read more about the new projects I'm getting started!
 
-- 🔭 I’m currently working on maintaining the [rslurm R package](https://cyberhelp.sesync.org/rslurm) and analyzing datasets ranging from [forest growth in Panama](https://github.com/qdread/forestscalingworkflow) to [USA-wide food waste](https://github.com/qdread/halvingfoodwaste) to [breeding bird surveys](https://github.com/qdread/nasabio).
-- 🌱 I’m currently learning more about statistical learning methods, publishing reproducible data science workflows, and trying to pick up some Julia on the side.
+- 🔭 I’m currently working on promoting Bayesian statistics, high-performance computing, and open reproducible science among USDA agricultural researchers. On the side I maintain the [rslurm R package](https://cyberhelp.sesync.org/rslurm). In the past I've analyzed datasets ranging from [forest growth in Panama](https://github.com/qdread/forestscalingworkflow) to [USA-wide food waste](https://github.com/qdread/halvingfoodwaste) to [breeding bird surveys](https://github.com/qdread/nasabio).
+- 🌱 I’m currently learning more about bioinformatics, statistical learning methods, publishing reproducible data science workflows, and building up my [Stan](https://mc-stan.org)-fu skills.
 - 📫 How to reach me: email quentin dot read at usda dot gov
 - 😄 Pronouns: he/him
 - ⚡ Fun stuff: I like playing Irish trad music on the flute :musical_score:, running the mile on the track :runner: :watch:, [birding](https://ebird.org/profile/MjY4MzU5/US) :bird:, cooking :egg:, and being a dad to Vinny :baby_symbol: and husband to [Mary](https://github.com/maryglover) :heart:.
