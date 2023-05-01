@@ -3,7 +3,7 @@
 I'm [Quentin](http://quentinread.com), data scientist and ecologist. 
 I'm the [Southeast Area](https://www.ars.usda.gov/southeast-area/) Statistician for the U.S. Department of Agriculture's Agricultural Research Service, located on the campus of North Carolina State University in Raleigh, North Carolina, USA.
 I work with datasets about everything from Georgia peaches :peach: to Hawaiian bees :honeybee: to Arkansas groundwater :ocean: to Florida sugarcane :lollipop:!
-I joined USDA in October 2021. Check out my [USDA stats and R tutorial page](https://quentinread.com/SEAStats) and my [official USDA GitHub profile](https://github.com/QuentinRead-USDA)!
+I joined USDA in October 2021. Check out my [USDA stats and R tutorial page](https://usda-ree-ars.github.io/SEAStats)!
 
 - 🔭 I’m currently working on promoting Bayesian statistics, high-performance computing, and open reproducible science among USDA agricultural researchers. 
 - :star: My favorite past project was all about [impacts of food waste and diet on global biodiversity](https://github.com/qdread/biodiversity-farm2fork-analysis) ([see Shiny app here](https://qdread.shinyapps.io/biodiversity-farm2fork)). I also am proud to have maintained the [rslurm R package](https://www.earthdatascience.org/rslurm) for four years.
