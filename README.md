@@ -1,6 +1,6 @@
 ### About Q
 
-I'm [Quentin](http://quentinread.com), data scientist and ecologist. 
+I'm [Quentin](https://quentinread.com), data scientist and ecologist. 
 I'm the [Southeast Area](https://www.ars.usda.gov/southeast-area/) Statistician for the U.S. Department of Agriculture's Agricultural Research Service, located on the campus of North Carolina State University in Raleigh, North Carolina, USA.
 I work with datasets about everything from Georgia peaches :peach: to Hawaiian bees :honeybee: to Arkansas groundwater :ocean: to Florida sugarcane :lollipop:!
 I joined USDA in October 2021. Check out my [USDA stats and R tutorial page](https://usda-ree-ars.github.io/SEAStats)!
@@ -14,20 +14,6 @@ I joined USDA in October 2021. Check out my [USDA stats and R tutorial page](htt
 
 ### Q on the web
 
-- [Quentin's personal site](http://quentinread.com)
+- [Quentin's personal site](https://quentinread.com)
 - [Quentin's StackOverflow profile](https://www.stackoverflow.com/users/2854608/qdread)
 - [Quentin's Google Scholar profile](https://scholar.google.com/citations?user=nW17_vcAAAAJ&hl=en)
-- [Quentin's Twitter](https://twitter.com/QuentinDRead)
-
-<!--
-**qdread/qdread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 💬 Ask me about ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
--->
